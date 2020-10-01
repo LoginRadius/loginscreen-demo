@@ -10,7 +10,7 @@ LoginRadius is a unified **Customer Identity Management** API platform that comb
 
 LoginRadius helps businesses boost user engagement on their web/mobile platform, manage online identities, utilize social media for marketing, capture accurate consumer data and get unique social insight into their customer base.
 
-Please visit https://docs.loginradius.com/api/v2/deployment/demos/loginscreen for more information.
+Click [here](https://docs.loginradius.com/api/v2/deployment/demos/loginscreen) for more information.
 
 LoginScreen
 --------------
@@ -20,4 +20,4 @@ This document contains information and examples regarding the LoginRadius LoginS
 
 ## Installation
 
-Please visit https://docs.loginradius.com/api/v2/deployment/demos/loginscreen for more information.
+Click [here](https://docs.loginradius.com/api/v2/deployment/demos/loginscreen) for more information.
