@@ -1,4 +1,4 @@
-LoginRadius
+LoginRadius 🔒
 ==========
 
 ![Home Image](http://docs.lrcontent.com/resources/github/banner-1544x500.png)
@@ -12,12 +12,12 @@ LoginRadius helps businesses boost user engagement on their web/mobile platform,
 
 Please visit https://docs.loginradius.com/api/v2/deployment/demos/loginscreen for more information.
 
-LoginScreen
+LoginScreen 💻
 --------------
 
 This document contains information and examples regarding the LoginRadius LoginScreen Widjet. The Login Screen theme allows you to quickly deploy LoginRadius directly onto your page. It allows you to customize some common layout options in order to bring it in line with the branding of your sites while preserving the ability to leverage all of the functionality of the full LoginRadius JS deployment..
 
 
-## Installation
+## Installation 😎
 
 Please visit https://docs.loginradius.com/api/v2/deployment/demos/loginscreen for more information.
